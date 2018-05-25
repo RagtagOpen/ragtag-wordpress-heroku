@@ -45,7 +45,7 @@
     "installer-paths": {
       "web/app/mu-plugins/{$name}/": ["wpackagist-plugin/wordfence", "wpackagist-plugin/nginx-helper", "wpackagist-plugin/wp-ses", "humanmade/s3-uploads", "wpackagist-plugin/wordpress-importer"],
       "web/app/themes/{$name}/": ["type:wordpress-theme"],
-      "web/app/plugins/{$name}/": ["wpackagist-plugin/minimum-viable-sharing-meta"]
+      "web/app/plugins/{$name}/": ["wpackagist-plugin/minimum-viable-sharing-meta", "wpackagist-plugin/jetpack", "wpackagist-plugin/akismet"]
     },
     "dropin-paths": {
       "web/app": ["package:wpackagist-plugin/redis-cache:includes/object-cache.php", "package:frc/batcache:advanced-cache.php"]
