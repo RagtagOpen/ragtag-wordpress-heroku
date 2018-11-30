@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.72.0",
+            "version": "3.80.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "990fc104600d0da59b0229e04c008abd16c5d0ee"
+                "reference": "16819253927a18f96c9bbd85cb1b47419e5bc371"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/990fc104600d0da59b0229e04c008abd16c5d0ee",
-                "reference": "990fc104600d0da59b0229e04c008abd16c5d0ee",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/16819253927a18f96c9bbd85cb1b47419e5bc371",
+                "reference": "16819253927a18f96c9bbd85cb1b47419e5bc371",
                 "shasum": ""
             },
             "require": {
@@ -87,7 +87,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2018-11-15T23:57:11+00:00"
+            "time": "2018-11-30T00:01:18+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -470,16 +470,16 @@
         },
         {
             "name": "composer/xdebug-handler",
-            "version": "1.3.0",
+            "version": "1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/xdebug-handler.git",
-                "reference": "b8e9745fb9b06ea6664d8872c4505fb16df4611c"
+                "reference": "dc523135366eb68f22268d069ea7749486458562"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/b8e9745fb9b06ea6664d8872c4505fb16df4611c",
-                "reference": "b8e9745fb9b06ea6664d8872c4505fb16df4611c",
+                "url": "https://api.github.com/repos/composer/xdebug-handler/zipball/dc523135366eb68f22268d069ea7749486458562",
+                "reference": "dc523135366eb68f22268d069ea7749486458562",
                 "shasum": ""
             },
             "require": {
@@ -510,7 +510,7 @@
                 "Xdebug",
                 "performance"
             ],
-            "time": "2018-08-31T19:07:57+00:00"
+            "time": "2018-11-29T10:59:02+00:00"
         },
         {
             "name": "frc/batcache",
@@ -1328,16 +1328,16 @@
         },
         {
             "name": "psr/log",
-            "version": "1.0.2",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d"
+                "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
-                "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
+                "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
                 "shasum": ""
             },
             "require": {
@@ -1371,7 +1371,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10T12:19:37+00:00"
+            "time": "2018-11-20T15:27:04+00:00"
         },
         {
             "name": "ramsey/array_column",
@@ -1619,16 +1619,16 @@
         },
         {
             "name": "symfony/config",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/config.git",
-                "reference": "99b2fa8acc244e656cdf324ff419fbe6fd300a4d"
+                "reference": "8a660daeb65dedbe0b099529f65e61866c055081"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/config/zipball/99b2fa8acc244e656cdf324ff419fbe6fd300a4d",
-                "reference": "99b2fa8acc244e656cdf324ff419fbe6fd300a4d",
+                "url": "https://api.github.com/repos/symfony/config/zipball/8a660daeb65dedbe0b099529f65e61866c055081",
+                "reference": "8a660daeb65dedbe0b099529f65e61866c055081",
                 "shasum": ""
             },
             "require": {
@@ -1679,20 +1679,20 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-31T09:06:03+00:00"
+            "time": "2018-11-26T10:17:44+00:00"
         },
         {
             "name": "symfony/console",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "1d228fb4602047d7b26a0554e0d3efd567da5803"
+                "reference": "8f80fc39bbc3b7c47ee54ba7aa2653521ace94bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/1d228fb4602047d7b26a0554e0d3efd567da5803",
-                "reference": "1d228fb4602047d7b26a0554e0d3efd567da5803",
+                "url": "https://api.github.com/repos/symfony/console/zipball/8f80fc39bbc3b7c47ee54ba7aa2653521ace94bb",
+                "reference": "8f80fc39bbc3b7c47ee54ba7aa2653521ace94bb",
                 "shasum": ""
             },
             "require": {
@@ -1748,20 +1748,20 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-30T16:50:50+00:00"
+            "time": "2018-11-26T12:48:07+00:00"
         },
         {
             "name": "symfony/debug",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
-                "reference": "fe9793af008b651c5441bdeab21ede8172dab097"
+                "reference": "2016b3eec2e49c127dd02d0ef44a35c53181560d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/debug/zipball/fe9793af008b651c5441bdeab21ede8172dab097",
-                "reference": "fe9793af008b651c5441bdeab21ede8172dab097",
+                "url": "https://api.github.com/repos/symfony/debug/zipball/2016b3eec2e49c127dd02d0ef44a35c53181560d",
+                "reference": "2016b3eec2e49c127dd02d0ef44a35c53181560d",
                 "shasum": ""
             },
             "require": {
@@ -1804,20 +1804,20 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-31T09:06:03+00:00"
+            "time": "2018-11-11T19:48:54+00:00"
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dependency-injection.git",
-                "reference": "9c98452ac7fff4b538956775630bc9701f5384ba"
+                "reference": "622b330ced1bdf29d240bd1c364c038f647eb0f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/9c98452ac7fff4b538956775630bc9701f5384ba",
-                "reference": "9c98452ac7fff4b538956775630bc9701f5384ba",
+                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/622b330ced1bdf29d240bd1c364c038f647eb0f5",
+                "reference": "622b330ced1bdf29d240bd1c364c038f647eb0f5",
                 "shasum": ""
             },
             "require": {
@@ -1875,20 +1875,20 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-31T10:49:51+00:00"
+            "time": "2018-11-20T16:14:23+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
-                "reference": "db9e829c8f34c3d35cf37fcd4cdb4293bc4a2f14"
+                "reference": "d365fc4416ec4980825873962ea5d1b1bca46f1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/db9e829c8f34c3d35cf37fcd4cdb4293bc4a2f14",
-                "reference": "db9e829c8f34c3d35cf37fcd4cdb4293bc4a2f14",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/d365fc4416ec4980825873962ea5d1b1bca46f1a",
+                "reference": "d365fc4416ec4980825873962ea5d1b1bca46f1a",
                 "shasum": ""
             },
             "require": {
@@ -1938,20 +1938,20 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-30T16:50:50+00:00"
+            "time": "2018-11-26T10:17:44+00:00"
         },
         {
             "name": "symfony/filesystem",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "d69930fc337d767607267d57c20a7403d0a822a4"
+                "reference": "b49b1ca166bd109900e6a1683d9bb1115727ef2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/d69930fc337d767607267d57c20a7403d0a822a4",
-                "reference": "d69930fc337d767607267d57c20a7403d0a822a4",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/b49b1ca166bd109900e6a1683d9bb1115727ef2d",
+                "reference": "b49b1ca166bd109900e6a1683d9bb1115727ef2d",
                 "shasum": ""
             },
             "require": {
@@ -1988,20 +1988,20 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-02T12:28:39+00:00"
+            "time": "2018-11-11T19:48:54+00:00"
         },
         {
             "name": "symfony/finder",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/finder.git",
-                "reference": "54ba444dddc5bd5708a34bd095ea67c6eb54644d"
+                "reference": "6cf2be5cbd0e87aa35c01f80ae0bf40b6798e442"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/finder/zipball/54ba444dddc5bd5708a34bd095ea67c6eb54644d",
-                "reference": "54ba444dddc5bd5708a34bd095ea67c6eb54644d",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/6cf2be5cbd0e87aa35c01f80ae0bf40b6798e442",
+                "reference": "6cf2be5cbd0e87aa35c01f80ae0bf40b6798e442",
                 "shasum": ""
             },
             "require": {
@@ -2037,7 +2037,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-03T08:46:40+00:00"
+            "time": "2018-11-11T19:48:54+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -2158,16 +2158,16 @@
         },
         {
             "name": "symfony/process",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "35c2914a9f50519bd207164c353ae4d59182c2cb"
+                "reference": "abb46b909dd6ba0b50e10d4c10ffe6ee96dd70f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/35c2914a9f50519bd207164c353ae4d59182c2cb",
-                "reference": "35c2914a9f50519bd207164c353ae4d59182c2cb",
+                "url": "https://api.github.com/repos/symfony/process/zipball/abb46b909dd6ba0b50e10d4c10ffe6ee96dd70f2",
+                "reference": "abb46b909dd6ba0b50e10d4c10ffe6ee96dd70f2",
                 "shasum": ""
             },
             "require": {
@@ -2203,20 +2203,20 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-14T17:33:21+00:00"
+            "time": "2018-11-20T16:10:26+00:00"
         },
         {
             "name": "symfony/translation",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/translation.git",
-                "reference": "94bc3a79008e6640defedf5e14eb3b4f20048352"
+                "reference": "bdbe940ed3ef4179f86032086c32d3a858becc0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/translation/zipball/94bc3a79008e6640defedf5e14eb3b4f20048352",
-                "reference": "94bc3a79008e6640defedf5e14eb3b4f20048352",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/bdbe940ed3ef4179f86032086c32d3a858becc0f",
+                "reference": "bdbe940ed3ef4179f86032086c32d3a858becc0f",
                 "shasum": ""
             },
             "require": {
@@ -2271,20 +2271,20 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-02T16:33:53+00:00"
+            "time": "2018-11-26T10:17:44+00:00"
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.4.18",
+            "version": "v3.4.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "640b6c27fed4066d64b64d5903a86043f4a4de7f"
+                "reference": "291e13d808bec481eab83f301f7bff3e699ef603"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/640b6c27fed4066d64b64d5903a86043f4a4de7f",
-                "reference": "640b6c27fed4066d64b64d5903a86043f4a4de7f",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/291e13d808bec481eab83f301f7bff3e699ef603",
+                "reference": "291e13d808bec481eab83f301f7bff3e699ef603",
                 "shasum": ""
             },
             "require": {
@@ -2330,7 +2330,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2018-10-02T16:33:53+00:00"
+            "time": "2018-11-11T19:48:54+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -4214,15 +4214,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "6.7",
+            "version": "6.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/6.7"
+                "reference": "tags/6.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.6.7.zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.6.8.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -4274,15 +4274,15 @@
         },
         {
             "name": "wpackagist-plugin/redis-cache",
-            "version": "1.3.8",
+            "version": "1.4.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/redis-cache/",
-                "reference": "tags/1.3.8"
+                "reference": "tags/1.4.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/redis-cache.1.3.8.zip",
+                "url": "https://downloads.wordpress.org/plugin/redis-cache.1.4.0.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -4294,15 +4294,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.15.3",
+            "version": "1.15.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.15.3"
+                "reference": "tags/1.15.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.15.3.zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.15.5.zip",
                 "reference": null,
                 "shasum": null
             },
