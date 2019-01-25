@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.85.0",
+            "version": "3.87.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "993caf51c56384fcbddd97ed1361fcd89628c693"
+                "reference": "80b7978ac0cabcf1a7ee6456e8d8ac714e836c4c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/993caf51c56384fcbddd97ed1361fcd89628c693",
-                "reference": "993caf51c56384fcbddd97ed1361fcd89628c693",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/80b7978ac0cabcf1a7ee6456e8d8ac714e836c4c",
+                "reference": "80b7978ac0cabcf1a7ee6456e8d8ac714e836c4c",
                 "shasum": ""
             },
             "require": {
@@ -87,7 +87,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2019-01-10T19:42:24+00:00"
+            "time": "2019-01-24T23:01:13+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -888,23 +888,23 @@
         },
         {
             "name": "justinrainbow/json-schema",
-            "version": "5.2.7",
+            "version": "5.2.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/justinrainbow/json-schema.git",
-                "reference": "8560d4314577199ba51bf2032f02cd1315587c23"
+                "reference": "dcb6e1006bb5fd1e392b4daa68932880f37550d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/justinrainbow/json-schema/zipball/8560d4314577199ba51bf2032f02cd1315587c23",
-                "reference": "8560d4314577199ba51bf2032f02cd1315587c23",
+                "url": "https://api.github.com/repos/justinrainbow/json-schema/zipball/dcb6e1006bb5fd1e392b4daa68932880f37550d4",
+                "reference": "dcb6e1006bb5fd1e392b4daa68932880f37550d4",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2.1",
+                "friendsofphp/php-cs-fixer": "~2.2.20",
                 "json-schema/json-schema-test-suite": "1.2.0",
                 "phpunit/phpunit": "^4.8.35"
             },
@@ -950,7 +950,7 @@
                 "json",
                 "schema"
             ],
-            "time": "2018-02-14T22:26:30+00:00"
+            "time": "2019-01-14T23:55:14+00:00"
         },
         {
             "name": "koodimonni/composer-dropin-installer",
@@ -4337,15 +4337,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.16.0",
+            "version": "1.16.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.16.0"
+                "reference": "tags/1.16.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.4.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -4439,16 +4439,16 @@
     "packages-dev": [
         {
             "name": "heroku/heroku-buildpack-php",
-            "version": "v148",
+            "version": "v149",
             "source": {
                 "type": "git",
                 "url": "https://github.com/heroku/heroku-buildpack-php.git",
-                "reference": "d331bfb9251d8a091d3a0d29e25ffcdb801577e1"
+                "reference": "ec9ffb83d2101bf4b42e09416a35c48b5dd2557e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/d331bfb9251d8a091d3a0d29e25ffcdb801577e1",
-                "reference": "d331bfb9251d8a091d3a0d29e25ffcdb801577e1",
+                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/ec9ffb83d2101bf4b42e09416a35c48b5dd2557e",
+                "reference": "ec9ffb83d2101bf4b42e09416a35c48b5dd2557e",
                 "shasum": ""
             },
             "bin": [
@@ -4479,7 +4479,7 @@
                 "nginx",
                 "php"
             ],
-            "time": "2018-12-20T21:53:40+00:00"
+            "time": "2019-01-14T17:29:14+00:00"
         }
     ],
     "aliases": [],
