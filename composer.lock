@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f638b0db7b6bc82bcf31dcf0aa6576fe",
+    "content-hash": "5a2df711e091ce112b14921d8894c10a",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.88.0",
+            "version": "3.88.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "ae656560625e3d9f9d9010898b98595918bb00f5"
+                "reference": "875786bf50f3b014fdef62cf4fce79ad5068dd40"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/ae656560625e3d9f9d9010898b98595918bb00f5",
-                "reference": "ae656560625e3d9f9d9010898b98595918bb00f5",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/875786bf50f3b014fdef62cf4fce79ad5068dd40",
+                "reference": "875786bf50f3b014fdef62cf4fce79ad5068dd40",
                 "shasum": ""
             },
             "require": {
@@ -86,7 +86,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2019-03-05T19:14:57+00:00"
+            "time": "2019-03-06T19:50:55+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -4237,26 +4237,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/disable-comments/"
-        },
-        {
-            "name": "wpackagist-plugin/gutenberg",
-            "version": "2.9.2",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/gutenberg/",
-                "reference": "tags/2.9.2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/gutenberg.2.9.2.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/gutenberg/"
         },
         {
             "name": "wpackagist-plugin/jetpack",
