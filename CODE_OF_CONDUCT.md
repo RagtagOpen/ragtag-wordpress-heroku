@@ -18,30 +18,30 @@ If you are unsure if something is appropriate behavior, it probably isn’t. Eac
 
 Examples of behavior that contributes to creating a positive and empowering environment include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences, including being respectful about where people are, and where they are coming from, in their activism
-* Gracefully accepting constructive feedback
-* Showing empathy and kindness towards other community members, and the organizers and activists we work with.
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences, including being respectful about where people are, and where they are coming from, in their activism
+- Gracefully accepting constructive feedback
+- Showing empathy and kindness towards other community members, and the organizers and activists we work with.
 
 Examples of unacceptable behavior include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Negative or offensive remarks based on race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing. **Consider that calling attention to differences can feel alienating**
-* Touching people without their affirmative consent
-* Sustained disruption of meetings, talks, or discussions, including chatrooms
-* Patronizing language or behavior
-* Aggressive and micro-aggressive behavior, such as unconstructive criticism, providing corrections that do not improve the conversation (sometimes referred to as “well actually”s), repeatedly interrupting or talking over someone else, feigning surprise at someone’s lack of knowledge or awareness about a topic, or subtle prejudice (for example, comments like “That’s so easy my grandmother could do it.”)
-* Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering)
-* Trolling, insulting, or derogatory comments, and personal attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without that person’s explicit permission
-* Publishing of non-harassing private communication
-* Unsolicited explanations under the assumption that someone doesn’t already know it. Ask before you teach! Don’t assume what people’s knowledge gaps are
-* Any of the above even when presented as “ironic” or “joking”
-* Bringing any data, information, or intellectual property into Ragtag that you do not have a legal right to share with the team
-* Collecting en masse personal or contact information from team members for outside personal or business use, including recruiting, adding to email lists, etc. without their explicit permission.
-* Retaliating against anyone who files a formal complaint that someone has violated this Code of Conduct
-* Other conduct which could reasonably be considered inappropriate in a professional setting.
+- The use of sexualized language or imagery and unwelcome sexual attention or advances
+- Negative or offensive remarks based on race, religion, color, sex (with or without sexual conduct and including pregnancy and sexual orientation involving transgender status/gender identity, and sex-stereotyping), national origin, age, disability (physical or mental), genetic information, sexual orientation, gender identity, parental status, marital status, gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, physical appearance, body size, or clothing. **Consider that calling attention to differences can feel alienating**
+- Touching people without their affirmative consent
+- Sustained disruption of meetings, talks, or discussions, including chatrooms
+- Patronizing language or behavior
+- Aggressive and micro-aggressive behavior, such as unconstructive criticism, providing corrections that do not improve the conversation (sometimes referred to as “well actually”s), repeatedly interrupting or talking over someone else, feigning surprise at someone’s lack of knowledge or awareness about a topic, or subtle prejudice (for example, comments like “That’s so easy my grandmother could do it.”)
+- Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender identity; for instance by using incorrect pronouns or forms of address (misgendering)
+- Trolling, insulting, or derogatory comments, and personal attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or electronic address, without that person’s explicit permission
+- Publishing of non-harassing private communication
+- Unsolicited explanations under the assumption that someone doesn’t already know it. Ask before you teach! Don’t assume what people’s knowledge gaps are
+- Any of the above even when presented as “ironic” or “joking”
+- Bringing any data, information, or intellectual property into Ragtag that you do not have a legal right to share with the team
+- Collecting en masse personal or contact information from team members for outside personal or business use, including recruiting, adding to email lists, etc. without their explicit permission.
+- Retaliating against anyone who files a formal complaint that someone has violated this Code of Conduct
+- Other conduct which could reasonably be considered inappropriate in a professional setting.
 
 ## Our Responsibilities
 
