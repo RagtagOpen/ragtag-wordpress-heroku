@@ -5,7 +5,9 @@
   "repository": "https://github.com/ragtagteam/ragtag-wordpress-heroku",
   "success_url": "/wp/wp-admin",
   "scripts": {
-    "postdeploy": ["bin/scripts/postdeploy.sh"]
+    "postdeploy": [
+      "bin/scripts/postdeploy.sh"
+    ]
   },
   "env": {
     "AWS_S3_URL": {
