@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.88.1",
+            "version": "3.89.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "875786bf50f3b014fdef62cf4fce79ad5068dd40"
+                "reference": "93784f1b37b350888295cf46d9e53a267d60699a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/875786bf50f3b014fdef62cf4fce79ad5068dd40",
-                "reference": "875786bf50f3b014fdef62cf4fce79ad5068dd40",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/93784f1b37b350888295cf46d9e53a267d60699a",
+                "reference": "93784f1b37b350888295cf46d9e53a267d60699a",
                 "shasum": ""
             },
             "require": {
@@ -86,7 +86,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2019-03-06T19:50:55+00:00"
+            "time": "2019-03-07T19:34:29+00:00"
         },
         {
             "name": "composer/ca-bundle",
