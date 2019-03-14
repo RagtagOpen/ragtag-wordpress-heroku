@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.89.0",
+            "version": "3.90.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "93784f1b37b350888295cf46d9e53a267d60699a"
+                "reference": "b912d351a44ce0c66c7c69ae937deb3756c61039"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/93784f1b37b350888295cf46d9e53a267d60699a",
-                "reference": "93784f1b37b350888295cf46d9e53a267d60699a",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b912d351a44ce0c66c7c69ae937deb3756c61039",
+                "reference": "b912d351a44ce0c66c7c69ae937deb3756c61039",
                 "shasum": ""
             },
             "require": {
@@ -86,7 +86,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2019-03-07T19:34:29+00:00"
+            "time": "2019-03-13T18:07:53+00:00"
         },
         {
             "name": "composer/ca-bundle",
@@ -759,20 +759,20 @@
         },
         {
             "name": "johnpbloch/wordpress",
-            "version": "5.1.0",
+            "version": "5.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress.git",
-                "reference": "bdb6632aea9872b7c71322c724a8acfc0ec9ee7f"
+                "reference": "b5673ea8f30a518eaf311c90f1d074c44b54e15e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/bdb6632aea9872b7c71322c724a8acfc0ec9ee7f",
-                "reference": "bdb6632aea9872b7c71322c724a8acfc0ec9ee7f",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/b5673ea8f30a518eaf311c90f1d074c44b54e15e",
+                "reference": "b5673ea8f30a518eaf311c90f1d074c44b54e15e",
                 "shasum": ""
             },
             "require": {
-                "johnpbloch/wordpress-core": "5.1.0",
+                "johnpbloch/wordpress-core": "5.1.1",
                 "johnpbloch/wordpress-core-installer": "^1.0",
                 "php": ">=5.3.2"
             },
@@ -794,27 +794,27 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2019-02-22T18:16:29+00:00"
+            "time": "2019-03-13T00:27:35+00:00"
         },
         {
             "name": "johnpbloch/wordpress-core",
-            "version": "5.1.0",
+            "version": "5.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress-core.git",
-                "reference": "07c57b738c9967e5643641a44e659b5851c066af"
+                "reference": "dba22982e7cb433b68f1b12a0bd4e5851f967010"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress-core/zipball/07c57b738c9967e5643641a44e659b5851c066af",
-                "reference": "07c57b738c9967e5643641a44e659b5851c066af",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress-core/zipball/dba22982e7cb433b68f1b12a0bd4e5851f967010",
+                "reference": "dba22982e7cb433b68f1b12a0bd4e5851f967010",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.2"
             },
             "provide": {
-                "wordpress/core-implementation": "5.1.0"
+                "wordpress/core-implementation": "5.1.1"
             },
             "type": "wordpress-core",
             "notification-url": "https://packagist.org/downloads/",
@@ -834,7 +834,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2019-02-22T18:16:24+00:00"
+            "time": "2019-03-13T00:27:30+00:00"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
@@ -4340,15 +4340,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.16.6",
+            "version": "1.16.8",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.16.6"
+                "reference": "tags/1.16.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.6.zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.8.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -4462,16 +4462,16 @@
     "packages-dev": [
         {
             "name": "heroku/heroku-buildpack-php",
-            "version": "v150",
+            "version": "v152",
             "source": {
                 "type": "git",
                 "url": "https://github.com/heroku/heroku-buildpack-php.git",
-                "reference": "e19cd3062208c1be2ad90130744a048abadc434b"
+                "reference": "6957c99ad679c07c520ae64669e39a9dd751d523"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/e19cd3062208c1be2ad90130744a048abadc434b",
-                "reference": "e19cd3062208c1be2ad90130744a048abadc434b",
+                "url": "https://api.github.com/repos/heroku/heroku-buildpack-php/zipball/6957c99ad679c07c520ae64669e39a9dd751d523",
+                "reference": "6957c99ad679c07c520ae64669e39a9dd751d523",
                 "shasum": ""
             },
             "bin": [
@@ -4502,7 +4502,7 @@
                 "nginx",
                 "php"
             ],
-            "time": "2019-02-07T19:46:31+00:00"
+            "time": "2019-03-13T20:58:00+00:00"
         }
     ],
     "aliases": [],
