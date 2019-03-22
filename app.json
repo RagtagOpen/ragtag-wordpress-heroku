@@ -65,6 +65,10 @@
     "HEROKU_APP_NAME": {
       "required": false,
       "description": "Only for automated deploys, please don't enter anything!"
+    },
+    "WP_ENV": {
+      "required": true,
+      "description": "Which environment is this build in?"
     }
   },
   "formation": {
