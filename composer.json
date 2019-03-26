@@ -49,6 +49,7 @@
   "extra": {
     "installer-paths": {
       "web/app/mu-plugins/{$name}/": [
+        "type:wordpress-muplugin",
         "wpackagist-plugin/wordfence",
         "wpackagist-plugin/nginx-helper",
         "wpackagist-plugin/wp-ses",
@@ -60,13 +61,7 @@
         "type:wordpress-theme"
       ],
       "web/app/plugins/{$name}/": [
-        "wpackagist-plugin/minimum-viable-sharing-meta",
-        "wpackagist-plugin/jetpack",
-        "wpackagist-plugin/akismet",
-        "wpackagist-plugin/disable-comments",
-        "wpackagist-plugin/gutenberg",
-        "wpackagist-plugin/updraftplus",
-        "wpackagist-plugin/wordpress-seo"
+        "type:wordpress-plugin"
       ]
     },
     "dropin-paths": {
