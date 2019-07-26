@@ -3815,15 +3815,15 @@
         },
         {
             "name": "wpackagist-plugin/disable-comments",
-            "version": "1.9.0",
+            "version": "1.10.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/disable-comments/",
-                "reference": "tags/1.9.0"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/disable-comments.1.9.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/disable-comments.zip?timestamp=1563798431",
                 "reference": null,
                 "shasum": null
             },
@@ -3915,15 +3915,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.16.15",
+            "version": "1.16.16",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.16.15"
+                "reference": "tags/1.16.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.15.zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.16.zip",
                 "reference": null,
                 "shasum": null
             },
