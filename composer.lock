@@ -3917,15 +3917,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.16.16",
+            "version": "1.16.17",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.16.16"
+                "reference": "tags/1.16.17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.16.zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.17.zip",
                 "reference": null,
                 "shasum": null
             },
