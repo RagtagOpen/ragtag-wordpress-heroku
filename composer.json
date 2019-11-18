@@ -42,7 +42,8 @@
     "wpackagist-plugin/wp-ses": "^0.8",
     "wpackagist-plugin/classic-editor": "^1.4",
     "wpackagist-theme/twentytwenty": "^1.0",
-    "wpackagist-theme/twentynineteen": "^1.0"
+    "wpackagist-theme/twentynineteen": "^1.0",
+    "wpackagist-plugin/ga-google-analytics": "20191109"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"

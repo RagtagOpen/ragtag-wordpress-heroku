@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "aee0c3af1f70791d66f011e8d43435d0",
+    "content-hash": "aa553867cbb4c9a168afe733fd038b46",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3834,6 +3834,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/disable-comments/"
+        },
+        {
+            "name": "wpackagist-plugin/ga-google-analytics",
+            "version": 20191109,
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/ga-google-analytics/",
+                "reference": "tags/20191109"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/ga-google-analytics.20191109.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/ga-google-analytics/"
         },
         {
             "name": "wpackagist-plugin/jetpack",
